@@ -3,10 +3,10 @@
 ## 👨‍🎓 About me
 
 - 😀 Frontend developer
-- 💪 Love sports 
+- 💪 Love basketball 
 - ⌨️ Love coding
 - 😎 Love Jay Chou
-- 🌱 I’m currently learning typescript , vite 2 and vue 3
+- 🌱 I’m currently learning typescript and vue 3
 
 ## 🛠 Most Technology stack
 
